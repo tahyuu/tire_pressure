@@ -1,4 +1,4 @@
-# kitty time meter system
+# tire pressure meter system
 
 ### Introduction
 the program is designed for child study time system. it can help child check how many time cost on each items of task.
@@ -11,6 +11,13 @@ sudo pip install ps4
 sudo apt-get update
 sudo apt-get install python-qt4
 git clone https://github.com/tahyuu/kitty_time_meter.git time_meter
+```
+
+### 1, you can also install pyqt4 with below method.
+
+```
+download the whl from https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyqt4
+pip  install PyQt4-4.11.4-cp27-cp27m-win_amd64.whlall 
 ```
 
 ### 2, setup enviroment
